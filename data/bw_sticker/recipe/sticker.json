@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:gold_nugget"
+  ],
+  "result": {
+    "id": "minecraft:item_frame",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "Sticker",
+      "minecraft:entity_data": {
+        "id": "item_frame",
+        "Tags": ["bw_sticker"],
+        "Invisible": true
+      }
+    }
+  }
+}
